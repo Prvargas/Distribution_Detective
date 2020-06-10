@@ -1,4 +1,6 @@
-# Distribution_Detective
+<img src="https://github.com/Prvargas/Distribution_Detective/blob/master/img/Detective.png" height="80" width="60">
+
+# Distribution_Detective 
 A project that can classify the distribution of data.
 
 

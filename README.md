@@ -20,7 +20,7 @@ A project that can classify the distribution of data.
 <!-- #region -->
 # Probability Distributions
 
-![image.png](attachment:image.png)
+<img src="https://github.com/Prvargas/Distribution_Detective/blob/master/img/Distributions.png">
 
 
 I chose to use 5 distributions but there are many more.
@@ -40,7 +40,7 @@ I chose to use 5 distributions but there are many more.
 # Algorithm
 
 
-![image.png](attachment:image.png)
+<img src="https://github.com/Prvargas/Distribution_Detective/blob/master/img/Flow.png">  
 
 
 <!-- #endregion -->
@@ -53,7 +53,7 @@ I chose to use 5 distributions but there are many more.
 
 ## Goodness Of Fit Test:  Chi – Square Test
 
-![image.png](attachment:image.png)
+<img src="https://github.com/Prvargas/Distribution_Detective/blob/master/img/Formula.png">
 
 
 
@@ -78,7 +78,7 @@ I created a custom algorithm that performs the chi square test on the dataset fe
 
 <!-- #region -->
 ## Classify Image: Covolutional Neural Network
-![image.png](attachment:image.png)
+<img src="https://github.com/Prvargas/Distribution_Detective/blob/master/img/Hist.png">
 
 I needed quality **LABELED** histogram images. The internet was not very much help so I decided to create a **“Random Histogram Generator Tool”**. This tool randomly generates the 5 distributions at random bin sizes.
 
@@ -92,11 +92,11 @@ I needed quality **LABELED** histogram images. The internet was not very much he
 
 <!-- #endregion -->
 
-![image.png](attachment:image.png)
+<img src="https://github.com/Prvargas/Distribution_Detective/blob/master/img/CNN.jpg">
 
 
 # Algorithm Results
-![image.png](attachment:image.png)
+<img src="https://github.com/Prvargas/Distribution_Detective/blob/master/img/Results.png">
 
 <!-- #region -->
 # Research Findings
@@ -116,6 +116,9 @@ I needed quality **LABELED** histogram images. The internet was not very much he
 - When the Beta dist alpha is small and beta is small it behaves like the Bernoulli dist
 
 <!-- #endregion -->
+
+# Conclusion
+I am happy to say I accomplished my goal of creating a tool that classifies the probability distribution of a data set. This tool can be utilized by both novices and experts. GO DATA SCIENCE!!!
 
 ```python
 

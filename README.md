@@ -1,4 +1,4 @@
-<img src="https://github.com/Prvargas/Distribution_Detective/blob/master/img/Detective.png" height="80" width="60"><img src="https://github.com/Prvargas/Distribution_Detective/blob/master/img/Detective.png" height="80" width="60"><img src="https://github.com/Prvargas/Distribution_Detective/blob/master/img/Detective.png" height="80" width="60"><img src="https://github.com/Prvargas/Distribution_Detective/blob/master/img/Detective.png" height="80" width="60"><img src="https://github.com/Prvargas/Distribution_Detective/blob/master/img/Detective.png" height="80" width="60"><img src="https://github.com/Prvargas/Distribution_Detective/blob/master/img/Detective.png" height="80" width="60"><img src="https://github.com/Prvargas/Distribution_Detective/blob/master/img/Detective.png" height="80" width="60"><img src="https://github.com/Prvargas/Distribution_Detective/blob/master/img/Detective.png" height="80" width="60"><img src="https://github.com/Prvargas/Distribution_Detective/blob/master/img/Detective.png" height="80" width="60"><img src="https://github.com/Prvargas/Distribution_Detective/blob/master/img/Detective.png" height="80" width="60"><img src="https://github.com/Prvargas/Distribution_Detective/blob/master/img/Detective.png" height="80" width="60"><img src="https://github.com/Prvargas/Distribution_Detective/blob/master/img/Detective.png" height="80" width="60"><img src="https://github.com/Prvargas/Distribution_Detective/blob/master/img/Detective.png" height="80" width="60"><img src="https://github.com/Prvargas/Distribution_Detective/blob/master/img/Detective.png" height="80" width="60"><img src="https://github.com/Prvargas/Distribution_Detective/blob/master/img/Detective.png" height="80" width="60">
+<img src="https://github.com/Prvargas/Distribution_Detective/blob/master/img/Detective.png" height="80" width="60"> <img src="https://github.com/Prvargas/Distribution_Detective/blob/master/img/Detective.png" height="80" width="60"> <img src="https://github.com/Prvargas/Distribution_Detective/blob/master/img/Detective.png" height="80" width="60"> <img src="https://github.com/Prvargas/Distribution_Detective/blob/master/img/Detective.png" height="80" width="60"> <img src="https://github.com/Prvargas/Distribution_Detective/blob/master/img/Detective.png" height="80" width="60"> <img src="https://github.com/Prvargas/Distribution_Detective/blob/master/img/Detective.png" height="80" width="60"> <img src="https://github.com/Prvargas/Distribution_Detective/blob/master/img/Detective.png" height="80" width="60"> <img src="https://github.com/Prvargas/Distribution_Detective/blob/master/img/Detective.png" height="80" width="60"> <img src="https://github.com/Prvargas/Distribution_Detective/blob/master/img/Detective.png" height="80" width="60"> <img src="https://github.com/Prvargas/Distribution_Detective/blob/master/img/Detective.png" height="80" width="60"> <img src="https://github.com/Prvargas/Distribution_Detective/blob/master/img/Detective.png" height="80" width="60"> <img src="https://github.com/Prvargas/Distribution_Detective/blob/master/img/Detective.png" height="80" width="60"> <img src="https://github.com/Prvargas/Distribution_Detective/blob/master/img/Detective.png" height="80" width="60"> <img src="https://github.com/Prvargas/Distribution_Detective/blob/master/img/Detective.png" height="80" width="60">
 
 # Distribution_Detective 
 A project that can classify the distribution of data.
@@ -92,15 +92,16 @@ I needed quality **LABELED** histogram images. The internet was not very much he
 **VALIDATION DATA:** I randomly generated 100 images per class for a total of 500 images.
 
 
+
+<!-- #endregion -->
+
+<img src="https://github.com/Prvargas/Distribution_Detective/blob/master/img/CNN.jpg">
+
 **CNN Architecture:**
 - Input Shape: (150, 150, 3)
 - Feature Learning: 3 Layers
 - Classification: 2 Layers
 - Output: 5
-
-<!-- #endregion -->
-
-<img src="https://github.com/Prvargas/Distribution_Detective/blob/master/img/CNN.jpg">
 
 
 # Algorithm Results

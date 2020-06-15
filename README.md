@@ -125,7 +125,9 @@ I needed quality **LABELED** histogram images. The internet was not very much he
 - When the Beta dist alpha is small and beta is small it behaves like the Bernoulli dist
 
 <!-- #endregion -->
-
+# Tech Stack
+Python: Numpy, Pandas, Scipy, Sklearn, Statsmodels, Keras, Tensorflow, Matplotlib, Seaborn, & Pylab
+ 
 # Conclusion
 I am happy to say I accomplished my goal of creating a tool that classifies the probability distribution of a data set. This tool can be utilized by both novices and experts. GO DATA SCIENCE!!!
 
